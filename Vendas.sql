@@ -9,7 +9,7 @@ nome_cliente varchar(20),
 endereco varchar(30),
 cidade varchar(15),
 estado char(2),
-cep char(10),
+pais char(10),
 cnpj char(20),
 ie char(20),
 primary key (codigo_cliente)
